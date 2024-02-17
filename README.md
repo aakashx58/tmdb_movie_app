@@ -10,13 +10,15 @@ A Flutter application that leverages TMDB API to showcase movies. The app has th
 - **Search Screen:** Enables local search functionality for movies.
 - **Favourite Movies:** Users can mark movies as their favorites.
 
-## Media
+## Screenshots
 
-<img src="https://github.com/vaidehi2701/movie_app_tmdb/assets/55477266/f4501ee8-6267-4535-84a6-280868b613e8" width="23%"></img> 
-<img src="https://github.com/vaidehi2701/movie_app_tmdb/assets/55477266/a44d0f64-76fc-4020-b6ce-3a1249cf308a" width="23%"></img>   
-<img src="https://github.com/vaidehi2701/movie_app_tmdb/assets/55477266/08a3849e-b6e0-4c11-9946-f2631410365f" width="23%"></img>
+<img src="https://github.com/aakashx58/tmdb_movie_app/assets/106716824/0b0c4c00-e6ad-47c9-970a-df4b3e1cc377" width="23%"></img> 
+<img src="https://github.com/aakashx58/tmdb_movie_app/assets/106716824/fdd81e54-91c4-49b7-8476-ffa3fb5f3bcd" width="23%"></img>   
+<img src="https://github.com/aakashx58/tmdb_movie_app/assets/106716824/77e48e2b-403c-43c7-89f2-ee2a25327f4f" width="23%"></img>
 
-https://github.com/vaidehi2701/movie_app_tmdb/assets/55477266/e438b88d-6b09-46b6-bc17-7acc7ca66422
+
+https://github.com/aakashx58/tmdb_movie_app/assets/106716824/5d9a6c48-a27f-4d7c-93b8-a5429036ff5f
+
 
 ## Setup
 
